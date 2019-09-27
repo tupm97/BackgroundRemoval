@@ -1,5 +1,5 @@
 # BackgroundRemoval
-Background là ứng dụng cho phép chụp ảnh sau đó giữ lấy những đối tượng là người và xóa phông nền
+BackgroundRemoval là ứng dụng cho phép chụp ảnh sau đó giữ lấy những đối tượng là người và xóa phông nền
 Ứng dụng sử Machine Learning model để dự đoán và xóa phông nền
 
 ## Library
