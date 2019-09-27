@@ -2,7 +2,8 @@
 Background là ứng dụng cho phép chụp ảnh sau đó giữ lấy những đối tượng là người và xóa phông nền
 Ứng dụng sử Machine Learning model để dự đoán và xóa phông nền
 
-##Library
+## Library
+
 Trong ứng dụng có package là library
 Có 4 component chính:
 -VisionPredictor: dùng để quản lý và thực thi model
