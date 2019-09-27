@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b3852ae-b7e7-4850-b393-f3961c950ada" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/anchors_android.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/coco_labels_list.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/mobilenet_labels.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/people_hq_768x768_1_1543441179.tflite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/snapshotpicture/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/snapshotpicture/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/snapshotpicture/model/BitmapUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/snapshotpicture/model/BitmapUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/snapshotpicture/model/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/snapshotpicture/model/Fritz.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/snapshotpicture/model/Fritz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/snapshotpicture/model/FritzVisionImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/snapshotpicture/model/FritzVisionImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/snapshotpicture/model/FritzVisionSegmentResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/snapshotpicture/model/FritzVisionSegmentResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/snapshotpicture/model/FritzVisionSegmentTFLPredictor.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/snapshotpicture/model/FritzVisionSegmentTFLPredictor.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_D
