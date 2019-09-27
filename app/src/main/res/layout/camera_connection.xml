@@ -23,7 +23,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <com.example.snapshotpicture.AutoFitTextureView
+        <com.example.backgroundremoval.view.AutoFitTextureView
             android:id="@+id/texture"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -34,7 +34,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />
 
-        <com.example.snapshotpicture.OverlayView
+        <com.example.backgroundremoval.view.OverlayView
             android:id="@+id/debug_overlay"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -72,7 +72,7 @@
         android:layout_height="match_parent"
         android:visibility="gone">
 
-        <com.example.snapshotpicture.OverlayView
+        <com.example.backgroundremoval.view.OverlayView
             android:id="@+id/snapshot_view"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
