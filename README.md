@@ -5,7 +5,7 @@ Background là ứng dụng cho phép chụp ảnh sau đó giữ lấy những 
 ## Library
 
 Trong ứng dụng có package là library
-Có 4 component chính:
+Có 4 component chính:</br>
 -VisionPredictor: dùng để quản lý và thực thi model
 -VisionImage: xử lý ảnh chụp được để chuẩn bị cho việc dự đoán của model
 -OnDeviceModel: chứa thông tin và load model file cho việc dự đoán
